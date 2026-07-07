@@ -1,5 +1,21 @@
 /* ===== Epsylon Point — galerie en ligne ===== */
 
+/* Polices auto-hébergées (variables) — aucun service externe requis */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url('../fonts/syne-var.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('../fonts/inter-var.woff2') format('woff2');
+}
+
 :root {
   --bg: #0e0e10;
   --bg-alt: #151518;

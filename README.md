@@ -10,6 +10,8 @@ pionnier du pochoir couleur et précurseur du street art français.
 - `assets/js/site.js` — **données des œuvres** (titres, années, dimensions, prix, descriptions) + galerie et fiches
 - `assets/img/oeuvres/` — images des œuvres en haute définition web (max 1800 px)
 - `assets/img/thumbs/` — vignettes pour la grille (max 700 px)
+- `assets/fonts/` — polices auto-hébergées (Syne pour les titres, Inter pour le texte) :
+  le site ne dépend d'aucun service externe et s'affiche identiquement partout
 
 ## Modifier les œuvres et les prix
 
